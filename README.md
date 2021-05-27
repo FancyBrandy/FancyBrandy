@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FancyBrandy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Fancy
+- 👀 I’m interested in language learning, travelling and coding!!!!!!
+- 🌱 I’m currently learning Computer Science in ELTE
+- 💞️ Passionate about cutting edge technology
+- 📫 How to reach me tutu990329@gmail.com
 
 <!---
 FancyBrandy/FancyBrandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
