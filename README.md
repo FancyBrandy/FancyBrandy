@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danqing(Fancy)
 - 👀 I’m interested in language learning, travelling and coding!!!!!!
-- 🌱 I’m currently learning Computer Science in ELTE
+- 🌱 Currently learning Computer Science in ELTE
 - 💞️ Passionate about cutting edge technology
 - 📫 How to reach me tutu990329@gmail.com
 - ✨ Keine Angst davor haben!
