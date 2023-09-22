@@ -3,7 +3,7 @@
 - 🌱 Currently learning Computer Science in ELTE
 - 💞️ Passionate about cutting edge technology
 - 📫 How to reach me tutu990329@gmail.com
-- ✨ Keine Angst davor haben!
+
 
 <!---
 FancyBrandy/FancyBrandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
